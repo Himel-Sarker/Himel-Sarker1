@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Himel-Sarker1
+- 👋 Hi, I’m @Himel Sarker
 - 👀 I’m interested in developing a software
-- 🌱 I’m currently learning HTML,CSS, Javascript.
+- 🌱 I'm currently working as a front end web developer
 - 💞️ I’m looking to collaborate on a team.
 - 📫 You can reach me at this number: +8801785482050 and my email: himelsarker85@gmail.com . 
 
