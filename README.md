@@ -1,6 +1,6 @@
 
 <p align="center">
-<img style="border-radius: 10px" src="Himel.jpg" width="250px">
+<img style="border-radius: 10px" src="Himel.jpeg" width="250px">
 
 <h3 align="center">
 Hi there 👋
@@ -21,7 +21,6 @@ You can click the Preview link to take a look at your changes.
 
 
 I love to talk on trending ⚡ technology ⚡, and I am a bit 😄 mad 😄 when I code. 
-
 ### Connect with me -
 
 [![Twitter Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/)](https://twitter.com/himel_sarker1/)
@@ -54,8 +53,8 @@ I love to talk on trending ⚡ technology ⚡, and I am a bit 😄 mad 😄 when
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
-[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=moshfiqrony&theme=dark&show_icons=true)](https://github.com/Himel-Sarker1)
-[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api/pin/?username=moshfiqrony&repo=awesome-bd-readme-profile&theme=dark)](https://github.com/moshfiqrony/awesome-bd-readme-profile)
+[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=Himel-Sarker1&theme=dark&show_icons=true)](https://github.com/Himel-Sarker1)
+[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api/pin/?username=Himel-Sarker1&repo=awesome-bd-readme-profile&theme=dark)](https://github.com/Himel-Sarker1/awesome-bd-readme-profile)
 
 
 # Read my recent blog's
