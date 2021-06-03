@@ -22,12 +22,12 @@ You can click the Preview link to take a look at your changes.
 
 I love to talk on trending ⚡ technology ⚡, and I am a bit 😄 mad 😄 when I code. ### Connect with me -
 
-[![Twitter Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/)](https://twitter.com/himel_sarker1/)
-[![Facebook Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/moshfiqrony/)](https://www.facebook.com/in/moshfiqrony/)
-[![Linkedin Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/moshfiqrony/)
-[![Gmail Badge](https://img.shields.io/badge/-15203012@iubat.edu-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu)](mailto:15203012@iubat.edu)
-[![Youtube Badge](https://img.shields.io/badge/-ProgSoft%20MR-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)](https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)
-[![Instagram Badge](https://img.shields.io/badge/-moshfiqrony-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/moshfiqrony/)](https://instagram.com/moshfiqrony)
+[![Twitter Badge](https://img.shields.io/badge/-himelsarker-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/himel_sarker1/)](https://twitter.com/himel_sarker1/)
+[![Facebook Badge](https://img.shields.io/badge/-himelsarker-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.Himelsarker01.com/in/Himelsarker01/)](https://www.facebook.com/in/Himelsarker01/)
+[![Linkedin Badge](https://img.shields.io/badge/-himelsarker-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himel-sarker-7738b9180/)](https://www.linkedin.com/in/himel-sarker-7738b9180/)
+[![Gmail Badge](https://img.shields.io/badge/-himelsarker85@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:himelsarker85@gmail.com)](mailto:himelsarker85@gmail.com)
+[![Youtube Badge](https://img.shields.io/badge/-LearnFacts%20HS-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCvgO4R1FmaH8UFoaJ8uS_yA)](https://www.youtube.com/channel/UCvgO4R1FmaH8UFoaJ8uS_yA)
+[![Instagram Badge](https://img.shields.io/badge/-himelsarker-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/himel_sarker1/)](https://instagram.com/himel_sarker1)
 
 - 🏢 I'm currently working at **D2 Pvt. Ltd.**
 - 🚀 I use daily:
@@ -50,7 +50,6 @@ I love to talk on trending ⚡ technology ⚡, and I am a bit 😄 mad 😄 when
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
 - 🌱 Learning all about:
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
 
