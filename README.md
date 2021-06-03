@@ -7,7 +7,7 @@ Hi there 👋
 </h3>
 
 <samp>
-    <p align="center"> I’m @Himel Sarker. 👀 I’m interested in developing a software.  🌱 I'm currently working as a front end web developer. 💞️ I’m looking to collaborate on a team. I love silence, book, gadgets, a cup of coffee, and also I love to learn something new btw, welcome to my profile. :D</p>
+    <p align="center"> I’m @Himel Sarker. 👀 I’m interested in developing a software.  🌱 I'm currently working as a front end web developer. 💞️ I’m looking to collaborate on a team. I love silence, book, gadgets, a cup of coffee, and also I love to learn something new btw, welcome to my profile.</p>
 </samp>
 </p>
 
