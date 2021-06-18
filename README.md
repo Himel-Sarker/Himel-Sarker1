@@ -7,7 +7,7 @@ Hi there 👋
 </h3>
 
 <samp>
-    <p align="center"> I’m @Himel Sarker. 👀 I’m interested in developing a software.  🌱 I'm currently working as a front end web developer. 💞️ I’m looking to collaborate on a team. I love silence, book, gadgets, a cup of coffee, and also I love to learn something new btw, welcome to my profile.</p>
+    <p align="center"> I’m @Himel Sarker. 👀 I’m interested in developing a software.  🌱 I'm currently working as a front end web developer. 💞️ I’m looking to collaborate on a team. I love silence, book, gadgets, a cup of coffee, and also I love to talk on trending ⚡ technology ⚡ btw, welcome to my profile.</p>
 </samp>
 </p>
 
@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 
-I love to talk on trending ⚡ technology ⚡, and I am a bit 😄 mad 😄 when I code. ### Connect with me -
+#Connect with me -
 
 [![Twitter Badge](https://img.shields.io/badge/-himelsarker-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/himel_sarker1/)](https://twitter.com/himel_sarker1/)[![Facebook Badge](https://img.shields.io/badge/-himelsarker-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.Himelsarker01.com/in/Himelsarker01/)](https://www.facebook.com/in/Himelsarker01/)[![Linkedin Badge](https://img.shields.io/badge/-himelsarker-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himel-sarker-7738b9180/)](https://www.linkedin.com/in/himel-sarker-7738b9180/)
 [![Gmail Badge](https://img.shields.io/badge/-himelsarker85@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:himelsarker85@gmail.com)](mailto:himelsarker85@gmail.com)[![Youtube Badge](https://img.shields.io/badge/-LearnFacts%20HS-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCvgO4R1FmaH8UFoaJ8uS_yA)](https://www.youtube.com/channel/UCvgO4R1FmaH8UFoaJ8uS_yA)[![Instagram Badge](https://img.shields.io/badge/-himelsarker-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/himel_sarker1/)](https://instagram.com/himel_sarker1)
